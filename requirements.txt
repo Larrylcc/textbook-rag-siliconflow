@@ -1,0 +1,8 @@
+langchain_chroma
+langchain_community
+langchain_text_splitters
+langchain_core
+chromadb
+requests
+python-dotenv
+PyPDF2
